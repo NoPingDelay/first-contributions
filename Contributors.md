@@ -1388,4 +1388,4 @@ SILVIO
 -[jmscpro](https://github.com/jmscpro)
 - [Ansh Singhal](https://github.com/singhal-ansh)
 - - [Abhi Nair](https://github.com/hea7hen)
--[NoPingDelay](https://github.com/NoPingDelay)
+- [NoPingDelay](https://github.com/jmscpro)
